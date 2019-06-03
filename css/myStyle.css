@@ -1,0 +1,13 @@
+.header .font{
+    font-family: Impact;
+    font-size: 50px;
+    color: blue;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px red;
+    padding-bottom: 0px;
+    margin-top: 20px;
+}
+.content  img{
+    height: 230px;
+    width: 180px;
+}
